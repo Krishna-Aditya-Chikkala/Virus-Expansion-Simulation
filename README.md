@@ -4,6 +4,7 @@ This code sets up an automated virus expansion simulation using a Tkinter GUI, w
 The grid is created with dimensions defined by GRID_SIZE_X and GRID_SIZE_Y.
 The grid is initially filled with all "Healthy" cells ('H').
 Specific points defined in STARTING_POINTS are set to "Infected" ('I').
+
 2.Map and Grid Overlay:
 A map image is loaded using PIL and an overlay is created where infected cells are tinted red.
 The overlay also includes scale markers at intervals defined by SCALE_INTERVAL.
