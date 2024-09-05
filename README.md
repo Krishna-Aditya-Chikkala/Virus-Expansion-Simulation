@@ -17,6 +17,6 @@ This code sets up an automated virus expansion simulation using a Tkinter GUI, w
 -The updated grid is displayed over the map image.
 -The Tkinter Canvas widget is used to display the image with the overlay applied.
 
-Automation and Final State:
+5.Automation and Final State:
 -The simulation runs in intervals (SPREAD_INTERVAL) using root.after, which continuously updates the grid and map.
 -When all regions are infected, a message is displayed on the Tkinter interface.
