@@ -1,4 +1,4 @@
-This code sets up an automated virus expansion simulation using a Tkinter GUI, where the virus spreads on a map image overlay based on a grid system. Here’s a breakdown of how the code works:
+This code sets up an automated virus expansion simulation using a Tkinter GUI, where the virus spreads on a map image overlay based on a grid system. Features:
 
 1.Grid Setup and Initialization:
 The grid is created with dimensions defined by GRID_SIZE_X and GRID_SIZE_Y.
